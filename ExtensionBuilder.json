@@ -1,0 +1,39 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "Adds a mailchimp finisher to powermail",
+        "emConf": {
+            "category": "plugin",
+            "custom_category": "",
+            "dependsOn": "typo3 => 7.6.0-8.7.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "7.6.0-7.6.99",
+            "version": "1.1."
+        },
+        "extensionKey": "mailchimp",
+        "name": "Powermailchimp",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "k\u00f6nig.digital",
+                "email": "franz@koenig.digital",
+                "name": "DI Franz K\u00f6nig",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "Kof"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2018-02-02 03:42",
+        "extension_builder_version": "7.6.0",
+        "be_user": " (1)"
+    }
+}
